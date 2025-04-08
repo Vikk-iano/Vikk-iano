@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a passionate **[Full Stack Developer | Data Scientist 
 
 Mobile app development]**
 - 👯 I’m looking to collaborate on: **Open source projects, freelance work, or tech communities**
-- 📫 How to reach me: **[victorademola10@gmail.com | LinkedIn | Portfolio website]**
+- 📫 How to reach me: **[victorademola10@gmail.com | victor egunjobi | ]**
 - ⚡ Fun fact: **[A fun or quirky fact about you]**
 
 ---
