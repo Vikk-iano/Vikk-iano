@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/9a7f2398-6973-4d63-a95c-834ec7424109)
+
 # 👋 Hi there, I'm Egunjobi Victor!
 
 Welcome to my GitHub! I'm a passionate **[Full Stack Developer | Data Scientist | UI/UX Designer]** who loves building impactful software and exploring new technologies. I enjoy solving real-world problems through code and creating meaningful digital experiences.
