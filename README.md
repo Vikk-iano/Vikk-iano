@@ -88,9 +88,9 @@ A cross-platform mobile application for an online store, providing users with a 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your Name GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikk-iano&show_icons=true&theme=radical" alt="Your Name GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikk-iano&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
@@ -115,4 +115,3 @@ A cross-platform mobile application for an online store, providing users with a 
 
 ## ⚙️ Fun Commands
 😉😉🤪
-npx yourusername
